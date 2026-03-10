@@ -1,0 +1,30 @@
+ls -lah
+
+total 100K
+drwx------ 17 vboxuser vboxuser 4.0K Mar 10 22:13 .
+drwxr-xr-x  3 root     root     4.0K Nov 16 09:54 ..
+-rw-------  1 vboxuser vboxuser  207 Mar  6 13:22 .bash_history
+-rw-r--r--  1 vboxuser vboxuser  220 Nov 16 09:54 .bash_logout
+-rw-r--r--  1 vboxuser vboxuser 3.5K Nov 16 09:54 .bashrc
+drwx------ 12 vboxuser vboxuser 4.0K Dec 10 20:53 .cache
+drwx------ 11 vboxuser vboxuser 4.0K Dec 10 20:53 .config
+drwxr-xr-x  2 vboxuser vboxuser 4.0K Nov 16 09:55 Desktop
+drwxrwxr-x  4 vboxuser vboxuser 4.0K Nov 16 10:51 digital-fundamentals
+drwxr-xr-x  2 vboxuser vboxuser 4.0K Nov 16 09:55 Documents
+drwxr-xr-x  2 vboxuser vboxuser 4.0K Nov 16 10:39 Downloads
+-rw-r--r--  1 vboxuser vboxuser 5.2K Nov 16 09:54 .face
+lrwxrwxrwx  1 vboxuser vboxuser    5 Nov 16 09:54 .face.icon -> .face
+-rw-rw-r--  1 vboxuser vboxuser   62 Nov 16 11:04 .gitconfig
+drwxrwxr-x  4 vboxuser vboxuser 4.0K Dec 10 20:54 leonova
+drwx------  4 vboxuser vboxuser 4.0K Nov 16 09:55 .local
+drwxrwxr-x  5 vboxuser vboxuser 4.0K Nov 16 09:55 .mozilla
+drwxr-xr-x  2 vboxuser vboxuser 4.0K Nov 16 09:55 Music
+drwxr-xr-x  2 vboxuser vboxuser 4.0K Nov 16 09:55 Pictures
+drwx------  3 vboxuser vboxuser 4.0K Dec 10 20:53 .pki
+-rw-r--r--  1 vboxuser vboxuser  807 Nov 16 09:54 .profile
+drwxr-xr-x  2 vboxuser vboxuser 4.0K Nov 16 09:55 Public
+-rw-r--r--  1 vboxuser vboxuser    0 Mar  6 13:12 .sudo_as_admin_successful
+-rw-rw-r--  1 vboxuser vboxuser  113 Mar 10 22:07 task_3-4_1_1.txt
+-rw-rw-r--  1 vboxuser vboxuser    0 Mar 10 22:13 task_3-4_1_2.txt
+drwxr-xr-x  2 vboxuser vboxuser 4.0K Nov 16 09:55 Templates
+drwxr-xr-x  2 vboxuser vboxuser 4.0K Nov 16 09:55 Videos
