@@ -1,13 +1,10 @@
-x = float(input("Введите первое число: "))
-y = float(input("Введите второе число: "))
-z = float(input("Введите третье число: "))
-w = float(input("Введите четвёртое число: "))
-min = x
-if y < min:
-    min = y
-if z < min:
-    min = z
-if w < min:
-    min = w
+array = [7, 3, 8, 1, 4, 6, 2, 5]
+n = len(array)
 
-print("Минимальное:", min)
+for i in range(n):
+    for j in range(n - 1):
+        if array[j] > array[j + 1]:
+            # Python-way: меняем элементы местами без temp
+            array[j], array[j + 1] = array[j + 1], array[j]
+
+print("Отсортированный массив:", array)
